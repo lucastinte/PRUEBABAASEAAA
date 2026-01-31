@@ -1,0 +1,26 @@
+{
+  "name": "pruebabaaseaaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucastinte/PRUEBABAASEAAA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucastinte/PRUEBABAASEAAA/issues"
+  },
+  "homepage": "https://github.com/lucastinte/PRUEBABAASEAAA#readme",
+  "dependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
